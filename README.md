@@ -5,4 +5,5 @@ I took a data visualization course during my Master's program. We were tasked to
 Tools used: Power BI, RStudio
 
 Brochure topic: Being Prepared for Severe Weather in Maine
+
 Target audience: general public 
